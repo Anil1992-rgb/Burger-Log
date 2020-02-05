@@ -1,19 +1,35 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+/* li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
 }
 
 .label {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 .create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
 }
 
 .form-group {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
+} */
+
+.card {
+    background: orange !important;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 80px !important;
+    background: teal;
+}
+
+h2 {
+    text-align: center;
 }
