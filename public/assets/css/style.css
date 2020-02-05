@@ -1,4 +1,8 @@
-/* li {
+body {
+    background-image: url("/public/assets/Images/HTMLbackground.jpg");
+}
+
+li {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
@@ -16,11 +20,12 @@
 
 .form-group {
     margin-bottom: 5px;
-} */
+}
 
 .card {
     background: orange !important;
     text-align: center;
+    padding: 10px;
 }
 
 h1 {
@@ -32,4 +37,9 @@ h1 {
 
 h2 {
     text-align: center;
+    background: orange;
 }
+
+.waiting {}
+
+.devoured {}
