@@ -23,4 +23,4 @@ ________________________________________________________________________________
 The app is also deployed on Heroku and can be used here!: https://theburgerlog.herokuapp.com/
 ___________________________________________________________________________________________________________________________________
 
-![Example profile](./example.png)
+![Example profile](./exampleIMG.png)
