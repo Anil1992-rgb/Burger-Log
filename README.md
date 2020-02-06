@@ -5,7 +5,7 @@
     -Node/Mysql Web app using the CRUD system (CREATE, READ, UPDATE, DELETE) and MVC design pattern.
     -Lets you insert burger names into  two seperate lists which are: Waiting To Devour & Devoured.
     -There are also two buttons next to each name to delete & switch lists.
-    -App listens to a connection such as local host and lets you add/view/delete burger names and saves the data so you can use and see the notes on different devices or        platforms -once deployed to the internet, like Heroku.
+    -App listens to a connection such as local host and lets you add/view/delete burger names and saves the data so you can use and see the notes on different devices or platforms -once deployed to the internet, like Heroku.
 
 ___________________________________________________________________________________________________________________________________
 
