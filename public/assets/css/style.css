@@ -1,5 +1,11 @@
-body {
-    background-image: url("/public/assets/Images/HTMLbackground.jpg");
+html {
+    background-image: url("../Images/HTMLbackground.jpg");
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    background-position: bottom;
+    height: 100% !important;
+    /* margin: 10px !important; */
+    /* padding: 10px !important; */
 }
 
 li {
@@ -29,10 +35,15 @@ li {
 }
 
 h1 {
+    background-image: URL("../Images/burgers.jpg");
+    background-size: cover !important;
+    /* background-repeat: no-repeat !important; */
     text-align: center;
     padding: 10px;
     margin-bottom: 80px !important;
-    background: teal;
+    max-width: 100%;
+    height: auto;
+    color: white;
 }
 
 h2 {
